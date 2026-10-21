@@ -1,0 +1,6 @@
+{
+  "name": "PCA Trainer - Révision Anatomie & Examen",
+  "description": "Application interactive de révision pour l'examen Physical Coaching Academy (PCA) : focus intensif sur les muscles et leurs fonctions, biomécanique, exercices, filières énergétiques et méthodologie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
